@@ -3,7 +3,7 @@
     {
       "name": "AdventureWorks_OLTP",
       "type": "mssql",
-      "host": "localdb",
+      "host": "localhost",
       "port": 1433,
       "user": "SAAMIYAMASTER\maste",
       "password": "",
@@ -12,7 +12,7 @@
     {
       "name": "AdventureWorksDW_DW",
       "type": "mssql",
-      "host": "localdb",
+      "host": "localhost",
       "port": 1433,
       "user": "SAAMIYAMASTER\maste",
       "password": "",
