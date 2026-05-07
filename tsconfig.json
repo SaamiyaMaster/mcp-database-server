@@ -2,18 +2,18 @@
   "databases": [
     {
       "name": "AdventureWorks_OLTP",
-      "type": "mysql",
-      "host": "localhost",
-      "port": 3306,
+      "type": "mssql",
+      "host": "localdb",
+      "port": 1433,
       "user": "SAAMIYAMASTER\maste",
       "password": "",
       "database": "AdventureWorks"
     },
     {
       "name": "AdventureWorksDW_DW",
-      "type": "mysql",
-      "host": "localhost",
-      "port": 3306,
+      "type": "mssql",
+      "host": "localdb",
+      "port": 1433,
       "user": "SAAMIYAMASTER\maste",
       "password": "",
       "database": "AdventureWorksDW"
